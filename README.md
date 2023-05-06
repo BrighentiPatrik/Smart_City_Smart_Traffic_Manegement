@@ -10,4 +10,4 @@ The project emulate three different smart objects, that are:
 2. Smart Camera:&emsp;&emsp;&emsp;It takes care of capturing and sending information useful for traffic orchestration.         
 3. Smart Traffic Light:&emsp; Its operating policies are set by the central controller to favor city traffic.
 
-<img src="/images/boo.svg">
+<img src="/Documentation/Immagini/Architettura.PNG" style="width:600px;height:600px;">
