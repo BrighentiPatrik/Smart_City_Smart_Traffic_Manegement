@@ -24,3 +24,9 @@ The semaphores subscribed to certain topics update their operating policy as ind
 
 ## UML Schema, Project Structure and Application Scenario
 For the UML schema, the project structure and the application scenario see folder [Documentation](/Documentation), there is also a pdf presentation of the project in italian language.
+
+## Usage
+In order to run this project, we have to excute the classes:
+1. DataCollectorEmulator
+2. TrafficLightEmulator
+3. SmartCameraEmulator
